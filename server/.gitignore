@@ -1,0 +1,4 @@
+node_modules
+package_lock.json
+clinet./node_modules
+client/package-lock.package_lock.json
