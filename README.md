@@ -1,5 +1,5 @@
-# My Project 🎨 😅
-Welcome to the **Google Docs Clone** project! 📄
+
+ **Google Docs Clone** 📄
 
 
 A collaborative, real-time document editor built with Node.js, Express, MongoDB, and Socket.io, aiming to replicate core functionalities of Google Docs, such as real-time editing, document storage, and collaborative text updates.
@@ -9,26 +9,6 @@ A collaborative, real-time document editor built with Node.js, Express, MongoDB,
 - **Collaborative Updates:** Edits from one user are reflected in real-time for all users.
 - **Document Persistence:** Documents are saved to MongoDB, allowing users to retrieve them later.
 - **Easy Setup:** Designed for easy local development and deployment.
-
-## Project Structure
-
-
-google-docs-clone 
-├── public 
-│ └── index.html # HTML structure for the front-end 
-├── src 
-│ ├── components 
-│ │ ├── Editor.js # Text editor component 
-│ │ └── Toolbar.js # Toolbar for document options 
-│ ├── app.js # Main application logic for front-end 
-│ ├── server.js # Server setup with Socket.io and MongoDB connections 
-│ └── db 
-│ └── DocumentModel.js # Mongoose schema for storing document data 
-├── css 
-│ └── styles.css # Styling for the front-end 
-├── package.json # Dependencies and scripts 
-└── README.md # Documentation
-
 
 ## Installation
 
@@ -79,12 +59,6 @@ Troubleshooting
 Contributing
 
 Pull requests are welcome 🚀. For significant changes, please open an issue to discuss what you would like to change.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-sql
 
 
 ### Additional Notes 🗒️ 
